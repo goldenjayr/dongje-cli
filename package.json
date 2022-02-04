@@ -1,0 +1,26 @@
+{
+  "name": "game-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "@google-cloud/promisify": "^2.0.4",
+    "bluebird": "^3.7.2",
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0",
+    "chalk-pipe": "^5.1.1",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  }
+}
