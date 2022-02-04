@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
   },
-  "keywords": [],
+  "keywords": ["dongje-cli", "cli", "jay-r gabunada", "jayr", "gabunada", "joseph"],
   "author": "",
   "license": "ISC",
   "bin": "./index.js",
